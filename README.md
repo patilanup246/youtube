@@ -1,13 +1,14 @@
-# youtube
 Please create one G Sheet with each of these going on a separate tab:
-site:youtube.com/channel "professional makeup artist"
-site:youtube.com/channel "beauty blogger"
-site:youtube.com/channel "makeup tutorials"
-site:youtube.com/channel "lipstick tutorials"
-site:youtube.com/channel "eyeshadow tutorials"
-site:youtube.com/channel "beauty influencer"
-site:youtube.com/channel "makeup influencer"
-site:youtube.com/channel "makeup creator"
-site:youtube.com/channel "makeup unboxing"
-site:youtube.com/channel "makeup reviews"
-site:youtube.com liquid lipstick reviews
+site:youtube.com/channel "self love"
+site:youtube.com "healing crystals"
+site:youtube.com "rose quartz"
+site:youtube.com/channel astrology
+site:youtube.com "lightworker"
+site:youtube.com/channel "boho chic"
+site:youtube.com/channel "Energy Healer"
+site:youtube.com/channel "Coachella"
+site:youtube.com/channel "burning man"
+site:youtube.com/channel "positive energy"
+site:youtube.com/channel "alo yoga" review
+site:youtube.com/channel "rose quartz"
+site:youtube.com "healing stones"
